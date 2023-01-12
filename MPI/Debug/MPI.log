@@ -1,0 +1,4 @@
+﻿  MPI.cpp
+D:\projects\MPI_test\MPI\MPI\MPI.cpp(70): warning C4101: status: неиспользованная локальная переменная
+D:\projects\MPI_test\MPI\MPI\MPI.cpp(66): warning C4101: nIntervals: неиспользованная локальная переменная
+  MPI.vcxproj -> D:\projects\MPI_test\MPI\Debug\MPI.exe
